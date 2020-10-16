@@ -27,7 +27,7 @@ int main(void){
 
      if(s == 'm' || s == 'M')
     {
-        fflush(stdin);
+        //fflush(stdin);
         printf("Soy Mujer\n");
     }else if (s == 'h' || s == 'H')
     {
